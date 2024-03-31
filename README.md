@@ -72,3 +72,4 @@ endmodule
 
 
 **Result:**
+Thus,the implementation-of-Half-Adder-and-Half Subtractor-circuitis successfully executed.
